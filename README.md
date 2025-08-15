@@ -14,7 +14,7 @@ This project is a visually captivating, responsive landing page designed for the
 ## 🚀 Live Demo
 
 Experience the festive design live on GitHub Pages:
-**[https://rudraprasad69.github.io/flazetech-project/](https://rudraprasad69.github.io/flazetech-project/)**
+**[https://rudraprasad69.github.io/flazetech-project/]**
 
 *(Note: This link will work after you deploy the project via GitHub Pages.)*
 
