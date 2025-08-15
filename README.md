@@ -47,7 +47,7 @@ Experience the festive design live on GitHub Pages:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/rudraprasad69/flazetech-project.git](https://github.com/rudraprasad69/flazetech-project.git)
+    git clone [https://github.com/rudraprasad69/flazetech-project.git] 
     ```
 
 2.  **Navigate to the project directory:**
