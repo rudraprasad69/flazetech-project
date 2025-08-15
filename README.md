@@ -27,7 +27,8 @@ Experience the festive design live on GitHub Pages:
 
 ## 📸 Screenshot
 
-![Desktop Screenshot of the Landing Page](path/to/your/screenshot.png)
+<img width="950" height="540" alt="{2FE4666A-691F-4D40-B01A-3FBB82A06E76}" src="https://github.com/user-attachments/assets/68092678-0685-48d8-8a00-9f84b53f8cb4" />
+
 
 *(Action: A full-page screenshot is essential for a landing page project. Add one here.)*
 
